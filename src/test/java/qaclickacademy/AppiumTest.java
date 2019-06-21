@@ -13,7 +13,11 @@ public class AppiumTest {
 		System.out.println("Andr3");
 		System.out.println("And3");
 	}
-	
+	@Test
+	public void IOSAp()
+	{
+		System.out.println("IOSAppsss");	
+	}
 	@Test
 	public void IOSApps()
 	{
